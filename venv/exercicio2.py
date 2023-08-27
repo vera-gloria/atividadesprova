@@ -1,0 +1,6 @@
+a = input("Digite um número ")
+b = input("Digite mais um número ")
+a = int(a)
+b = int(b)
+resultadoAdicao = (a+b)
+print("A soma de a e b é: " + str(resultadoAdicao))
